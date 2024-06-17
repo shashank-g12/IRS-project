@@ -1,4 +1,4 @@
-#  Inverted Index-based Search System
+# Inverted Index-based Search System
 The goal is to build an efficient ranked retrieval system for an English corpora and develop compact, and efficient-to-query inverted index structures, and
 evaluate their performance.
 
